@@ -1,2 +1,2 @@
 # learning-PyTorch
-Repo to save my PyTorch learning journey
+Resources from https://www.learnpytorch.io/ 
